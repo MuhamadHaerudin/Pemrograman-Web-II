@@ -1,8 +1,6 @@
 <?php
-// hostname or ip of server
 $servername='localhost'; 
 
-// username and password 
 $dbusername='root';
 $dbpassword='';
 
